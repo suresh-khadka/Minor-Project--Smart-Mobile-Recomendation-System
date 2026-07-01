@@ -1,0 +1,234 @@
+rank,Processor_name,Processor_full_name,brand,url,rating,grade,antutu_v11,gb6_single,gb6_multi,cores,core_config,clock_mhz,gpu
+1,Snapdragon 8 Elite Gen 5,Qualcomm Snapdragon 8 Elite Gen 5,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-8-elite-2,97,A+,3932243,3607,10732,8,(2+6),4610 MHz,Adreno 840
+2,A19 Pro,Apple A19 Pro,Apple,https://nanoreview.net/en/soc/apple-a19-pro,96,A+,2606807,3992,10688,6,(2+4),4260 MHz,Apple A19 Pro GPU
+3,Dimensity 9500,MediaTek Dimensity 9500,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9500,96,A+,3508681,3366,10603,8,(1+3+4),4210 MHz,Mali-G1 Ultra MP12
+4,Exynos 2600,Samsung Exynos 2600,Samsung,https://nanoreview.net/en/soc/samsung-exynos-2600,93,A+,3145925,3455,11621,10,(1+3+6),3800 MHz,Samsung Xclipse 960
+5,Snapdragon 8 Elite (Gen 4),Qualcomm Snapdragon 8 Elite (Gen 4),Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-8-gen-4,93,A+,3336910,3042,9377,8,(2+6),4320 MHz,Adreno 830
+6,Apple A19,Apple A19,Apple,https://nanoreview.net/en/soc/apple-a19,91,A,2239708,3757,9483,6,(2+4),4260 MHz,Apple A19 GPU
+7,Dimensity 9500s,MediaTek Dimensity 9500s,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9500s,90,A,3041307,2877,9236,8,(1+3+4),3730 MHz,Mali-G925 MP12
+8,Dimensity 9400 Plus,MediaTek Dimensity 9400 Plus,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9400-plus,89,A,2874956,2927,9000,8,(1+3+4),3730 MHz,Mali-G925 MP12
+9,Dimensity 9400,MediaTek Dimensity 9400,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9400,88,A,2825187,2809,8810,8,(1+3+4),3620 MHz,Mali-G925 MP12
+10,Snapdragon 8 Gen 5,Qualcomm Snapdragon 8 Gen 5,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-8-gen-5,86,A,3082388,2903,9602,8,(2+6),3800 MHz,Adreno 829
+11,Xring O1,Xiaomi Xring O1,Xiaomi,https://nanoreview.net/en/soc/xiaomi-xring-o1,86,A,2998904,2746,8431,10,(2+4+2+2),3900 MHz,Mali-G925 MP16
+12,Apple A18,Apple A18,Apple,https://nanoreview.net/en/soc/apple-a18,82,A,1918031,3466,8592,6,(2+4),4050 MHz,Apple A18 GPU
+13,Exynos 2500,Samsung Exynos 2500,Samsung,https://nanoreview.net/en/soc/samsung-exynos-2500,82,A,2420011,2522,9015,10,(1+2+5+2),3300 MHz,Samsung Xclipse 950
+14,A18 Pro,Apple A18 Pro,Apple,https://nanoreview.net/en/soc/apple-a18-pro,82,A,1808835,3570,8923,6,(2+4),4050 MHz,Apple A18 Pro GPU
+15,Dimensity 9300,MediaTek Dimensity 9300,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9300,79,A,2415558,2239,7538,8,(1+3+4),3250 MHz,Mali-G720 MP12
+16,Dimensity 9400e,MediaTek Dimensity 9400e,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9400e,78,A,2474831,2233,7478,8,(1+3+4),3400 MHz,Mali-G720 MP12
+17,Dimensity 9300 Plus,MediaTek Dimensity 9300 Plus,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9300-plus,78,A,2347116,2256,7541,8,(1+3+4),3400 MHz,Mali-G720 MP12
+18,Snapdragon 8 Gen 3,Qualcomm Snapdragon 8 Gen 3,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-8-gen-3,77,A,2341391,2201,6753,8,(1+3+2+2),3300 MHz,Adreno 750
+19,A17 Pro,Apple A17 Pro,Apple,https://nanoreview.net/en/soc/apple-a17-pro,77,A,1503813,2972,7397,6,(2+4),3780 MHz,Apple A17 GPU
+20,Snapdragon 8s Gen 4,Qualcomm Snapdragon 8s Gen 4,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-8s-gen-4,75,A,2301396,2068,6385,8,(1+3+2+2),3210 MHz,Adreno 825
+21,A16 Bionic,Apple A16 Bionic,Apple,https://nanoreview.net/en/soc/apple-a16-bionic,75,A,1633145,2630,6744,6,(2+4),3460 MHz,Apple A16 GPU
+22,Exynos 2400,Samsung Exynos 2400,Samsung,https://nanoreview.net/en/soc/samsung-exynos-2400,72,A,2037320,2085,6507,10,(1+2+3+4),3210 MHz,Samsung Xclipse 940
+23,Exynos 2400e,Samsung Exynos 2400e,Samsung,https://nanoreview.net/en/soc/samsung-exynos-2400e,71,A,1971406,2051,6690,10,(1+2+3+4),3110 MHz,Samsung Xclipse 940
+24,Dimensity 8500,MediaTek Dimensity 8500,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8500,70,A,2153969,1721,6716,8,(1+3+4),3400 MHz,Mali-G720 MP8
+25,Dimensity 8450,MediaTek Dimensity 8450,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8450,67,A,2016572,1617,6406,8,(1+3+4),3250 MHz,Mali-G720 MP7
+26,A15 Bionic,Apple A15 Bionic,Apple,https://nanoreview.net/en/soc/apple-a15-bionic,66,A,1413275,2303,5725,6,(2+4),3230 MHz,Apple A15 GPU
+27,Dimensity 8400,MediaTek Dimensity 8400,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8400,65,A,1934134,1576,5893,8,(1+3+4),3250 MHz,Mali-G720 MP7
+28,Dimensity 9200 Plus,MediaTek Dimensity 9200 Plus,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9200-plus,65,A,1798756,2090,5532,8,(1+3+4),3350 MHz,Mali-G715 MP11
+29,Snapdragon 8 Gen 2,Qualcomm Snapdragon 8 Gen 2,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-8-gen-2,64,B,1752044,2033,5558,8,(1+2+2+3),3200 MHz,Adreno 740
+30,Dimensity 9200,MediaTek Dimensity 9200,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9200,64,B,1755232,1949,5281,8,(1+3+4),3050 MHz,Mali-G715 MP11
+31,Snapdragon 8s Gen 3,Qualcomm Snapdragon 8s Gen 3,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-8s-gen-3,63,B,1795718,1938,5143,8,(1+4+3),3000 MHz,Adreno 735
+32,Snapdragon 7 Plus Gen 3,Qualcomm Snapdragon 7 Plus Gen 3,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-7-plus-gen-3,61,B,1647728,1860,5045,8,(1+4+3),2800 MHz,Adreno 732
+33,A14 Bionic,Apple A14 Bionic,Apple,https://nanoreview.net/en/soc/apple-a14-bionic,61,B,1337390,2124,4871,6,(2+4),3100 MHz,Apple A14 GPU
+34,Kirin 9030 Pro,HiSilicon Kirin 9030 Pro,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-9030,59,B,2101808,1683,5817,9,(1+4+4),2750 MHz,Maleoon 935
+35,Dimensity 8350,MediaTek Dimensity 8350,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8350,58,B,1718082,1398,4313,8,(1+3+4),3350 MHz,Mali-G615 MP6
+36,Tensor G5,Google Tensor G5,Google,https://nanoreview.net/en/soc/google-tensor-g5,58,B,1467600,2293,5937,8,(1+5+2),3780 MHz,PowerVR DXT-48-1536
+37,Tensor G4,Google Tensor G4,Google,https://nanoreview.net/en/soc/google-tensor-g4,58,B,1499601,1944,4630,8,(1+3+4),3100 MHz,Mali-G715 MP7
+38,Dimensity 9000 Plus,MediaTek Dimensity 9000 Plus,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9000-plus,58,B,1453683,1967,5401,8,(1+3+4),3200 MHz,Mali-G710 MP10
+39,Dimensity 8300,MediaTek Dimensity 8300,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8300,56,B,1609292,1375,4217,8,(1+3+4),3350 MHz,Mali-G615 MP6
+40,Snapdragon 8 Plus Gen 1,Qualcomm Snapdragon 8 Plus Gen 1,Qualcomm,https://nanoreview.net/en/soc/snapdragon-8-plus-gen-1,56,B,1411891,1759,4575,8,(1+3+4),3200 MHz,Adreno 730
+41,Tensor G3,Google Tensor G3,Google,https://nanoreview.net/en/soc/google-tensor-g3,55,B,1414384,1722,4458,9,(1+4+4),2910 MHz,Mali-G715 MP7
+42,Exynos 2200,Samsung Exynos 2200,Samsung,https://nanoreview.net/en/soc/samsung-exynos-2200,54,B,1470636,1588,3958,8,(1+3+4),2800 MHz,Samsung Xclipse 920
+43,Dimensity 9000,MediaTek Dimensity 9000,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-9000,54,B,1409448,1693,4384,8,(1+3+4),3050 MHz,Mali-G710 MP10
+44,A13 Bionic,Apple A13 Bionic,Apple,https://nanoreview.net/en/soc/apple-a13-bionic,54,B,1091336,1754,4189,6,(2+4),2650 MHz,Apple A13 GPU
+45,Exynos 1680,Samsung Exynos 1680,Samsung,https://nanoreview.net/en/soc/samsung-exynos-1680,53,B,1390055,1389,4453,8,(1+4+3),2900 MHz,Samsung Xclipse 550
+46,Snapdragon 8 Gen 1,Qualcomm Snapdragon 8 Gen 1,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-8-gen-1,52,B,1294632,1678,3773,8,(1+3+4),3000 MHz,Adreno 730
+47,Snapdragon 7 Plus Gen 2,Qualcomm Snapdragon 7 Plus Gen 2,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-7-plus-gen-2,51,B,1285461,1653,4349,8,(1+3+4),2910 MHz,Adreno 725
+48,Snapdragon 888 Plus,Qualcomm Snapdragon 888 Plus,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-888-plus,50,B,1208784,1605,3996,8,(1+3+4),2995 MHz,Adreno 660
+49,Kirin 9030S,HiSilicon Kirin 9030S,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-9030s,49,B,1607132,1410,4102,8,(1+3+4),3000 MHz,Maleoon 935F
+50,Exynos 1580,Samsung Exynos 1580,Samsung,https://nanoreview.net/en/soc/samsung-exynos-1580,49,B,1243000,1359,3896,8,(1+3+4),2900 MHz,Samsung Xclipse 540
+51,Snapdragon 7 Gen 4,Qualcomm Snapdragon 7 Gen 4,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-7-gen-4,48,B,1261959,1244,3506,8,(1+4+3),2800 MHz,Adreno 722
+52,Dimensity 8200,MediaTek Dimensity 8200,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8200,48,B,1206715,1224,3891,8,(1+3+4),3100 MHz,Mali-G610 MP6
+53,Tensor G2,Google Tensor G2,Google,https://nanoreview.net/en/soc/google-tensor-g2,48,B,1158921,1459,3451,8,(2+2+4),2850 MHz,Mali-G710 MP7
+54,Kirin 9020,HiSilicon Kirin 9020,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-9020,47,B,1383793,1370,4446,8,(1+3+4),2500 MHz,Maleoon 920
+55,Google Tensor,Google Tensor,Google,https://nanoreview.net/en/soc/google-tensor,47,B,1019946,1471,3478,8,(2+2+4),2800 MHz,Mali-G78 MP20
+56,Snapdragon 888,Qualcomm Snapdragon 888,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-875,47,B,1118041,1488,3373,8,(1+3+4),2840 MHz,Adreno 660
+57,Kirin 9000,HiSilicon Kirin 9000,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-9000,46,B,1079281,1262,3507,8,(1+3+4),3130 MHz,Mali-G78 MP24
+58,Kirin 9010,HiSilicon Kirin 9010,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-9010,45,B,1155792,1397,3957,8,(1+3+4),2300 MHz,Maleoon 910
+59,Dimensity 8100,MediaTek Dimensity 8100,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8100,45,B,1085324,1139,3842,8,(4+4),2850 MHz,Mali-G610 MP6
+60,Exynos 2100,Samsung Exynos 2100,Samsung,https://nanoreview.net/en/soc/samsung-exynos-2100,45,B,1042710,1446,3612,8,(1+3+4),2900 MHz,Mali-G78 MP14
+61,A12 Bionic,Apple A12 Bionic,Apple,https://nanoreview.net/en/soc/apple-a12-bionic,45,B,895627,1338,2903,6,(2+4),2490 MHz,Apple A12 GPU
+62,Snapdragon 7s Gen 4,Qualcomm Snapdragon 7s Gen 4,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-7s-gen-4,44,B,986597,1237,3281,8,(1+3+4),2700 MHz,Adreno 810
+63,Dimensity 8000,MediaTek Dimensity 8000,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8000,44,B,1080933,1097,3309,8,(4+4),2750 MHz,-
+64,Snapdragon 870,Qualcomm Snapdragon 870,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-870,44,B,1005598,1298,3520,8,(1+3+4),3200 MHz,Adreno 650
+65,Snapdragon 6 Gen 5,Qualcomm Snapdragon 6 Gen 5,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-6-gen-5,43,B,1073789,1180,3501,8,(4+4),2600 MHz,-
+66,Snapdragon 7s Gen 3,Qualcomm Snapdragon 7s Gen 3,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-7s-gen-3,43,B,1038717,1174,3157,8,(1+3+4),2500 MHz,Adreno 810
+67,Snapdragon 7 Gen 3,Qualcomm Snapdragon 7 Gen 3,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-7-gen-3,43,B,1020938,1131,2967,8,(1+3+4),2630 MHz,Adreno 720
+68,Snapdragon 865 Plus,Qualcomm Snapdragon 865 Plus,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-865-plus,43,B,909414,1254,3297,8,(1+3+4),3100 MHz,Adreno 650
+69,Kirin 8020,HiSilicon Kirin 8020,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-8020,42,B,1021894,1350,3570,8,(1+3+4),2285 MHz,Maleoon 920
+70,Dimensity 7350,MediaTek Dimensity 7350,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7350,42,B,1037391,1086,3063,8,(2+6),3000 MHz,-
+71,Exynos 1480,Samsung Exynos 1480,Samsung,https://nanoreview.net/en/soc/samsung-exynos-1480,42,B,997728,1140,3346,8,(4+4),2750 MHz,Samsung Xclipse 530
+72,Dimensity 8050,MediaTek Dimensity 8050,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8050,42,B,1028453,1097,3359,8,(1+3+4),3000 MHz,Mali-G77 MP9
+73,Dimensity 8020,MediaTek Dimensity 8020,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-8020,42,B,969978,1120,3665,8,(4+4),2600 MHz,Mali-G77 MP9
+74,Snapdragon 865,Qualcomm Snapdragon 865,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-865,42,B,964589,1168,3431,8,(1+3+4),2840 MHz,Adreno 650
+75,Snapdragon 6 Gen 4,Qualcomm Snapdragon 6 Gen 4,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-6-gen-4,41,B,963651,1076,3077,8,(1+3+4),2300 MHz,Adreno 810
+76,Dimensity 7200 Ultra,MediaTek Dimensity 7200 Ultra,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7200-ultra,41,B,960142,1193,2693,8,(2+6),2800 MHz,-
+77,Kirin 9000S,HiSilicon Kirin 9000S,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-9000s,41,B,1062256,1325,4118,8,(1+3+4),2620 MHz,Maleoon 910
+78,Dimensity 7200,MediaTek Dimensity 7200,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7200,41,B,971424,1167,2577,8,(2+6),2800 MHz,-
+79,Dimensity 1300,MediaTek Dimensity 1300,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-1300,41,B,954090,1114,3281,8,(1+3+4),3000 MHz,Mali-G77 MP9
+80,Dimensity 1100,MediaTek Dimensity 1100,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-1100,41,B,972810,1104,3321,8,(4+4),2600 MHz,Mali-G77 MP9
+81,Dimensity 1200,MediaTek Dimensity 1200,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-1200,41,B,980006,1143,3353,8,(1+3+4),3000 MHz,Mali-G77 MP9
+82,Exynos 990,Samsung Exynos 990,Samsung,https://nanoreview.net/en/soc/samsung-exynos-990,41,B,901199,1222,3060,8,(2+2+4),2730 MHz,Mali-G77 MP11
+83,Dimensity 7400,MediaTek Dimensity 7400,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7400,40,B,929183,1061,3185,8,(4+4),2600 MHz,Mali-G615 MP2
+84,Snapdragon 6 Gen 3,Qualcomm Snapdragon 6 Gen 3,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-6-gen-3,39,B,833548,1009,2933,8,(4+4),2400 MHz,Adreno 710
+85,Snapdragon 7 Gen 1,Qualcomm Snapdragon 7 Gen 1,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-7-gen-1,39,B,829085,1039,2885,8,(1+3+4),2400 MHz,Adreno 644
+86,Snapdragon 778G Plus,Qualcomm Snapdragon 778G Plus,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-778g-plus,39,B,800145,1059,3043,8,(1+3+4),2500 MHz,Adreno 642
+87,Dimensity 1000 Plus,MediaTek Dimensity 1000 Plus,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-1000-plus,39,B,708890,1031,3123,8,(4+4),2600 MHz,Mali-G77 MP9
+88,Kirin 990 (5G),HiSilicon Kirin 990 (5G),HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-990-5g,39,B,887876,1018,3387,8,(2+2+4),2860 MHz,Mali-G76 MP16
+89,Snapdragon 855 Plus,Qualcomm Snapdragon 855 Plus,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-855-plus,39,B,859084,1031,2864,8,(1+3+4),2960 MHz,Adreno 640
+90,Dimensity 7360,MediaTek Dimensity 7360,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7360,38,B,922560,1025,2882,8,(4+4),2500 MHz,Mali-G615 MP2
+91,Snapdragon 6s Gen 4,Qualcomm Snapdragon 6s Gen 4,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-6s-gen-4,38,B,831969,1009,2892,8,(4+4),2400 MHz,Adreno 710
+92,Dimensity 7300,MediaTek Dimensity 7300,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7300,38,B,877329,1009,2936,8,(4+4),2500 MHz,Mali-G615 MP2
+93,Snapdragon 7s Gen 2,Qualcomm Snapdragon 7s Gen 2,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-7s-gen-2,38,B,794701,1015,2687,8,(4+4),2400 MHz,Adreno 710
+94,Snapdragon 782G,Qualcomm Snapdragon 782G,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-782g,38,B,806420,1126,3034,8,(1+3+4),2700 MHz,Adreno 642
+95,Snapdragon 778G,Qualcomm Snapdragon 778G,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-778g-5g,38,B,780000,1017,2943,8,(1+3+4),2400 MHz,Adreno 642
+96,Snapdragon 780G,Qualcomm Snapdragon 780G,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-780g,38,B,782789,1051,2971,8,(1+3+4),2400 MHz,Adreno 642
+97,Snapdragon 860,Qualcomm Snapdragon 860,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-860,38,B,813344,1004,2653,8,(1+3+4),2960 MHz,Adreno 640
+98,Snapdragon 855,Qualcomm Snapdragon 855,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-855,38,B,820253,968,2731,8,(1+3+4),2840 MHz,Adreno 640
+99,Kirin 8000,HiSilicon Kirin 8000,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-8000,37,B,829838,937,2598,8,(1+3+4),2400 MHz,-
+100,Dimensity 7030,MediaTek Dimensity 7030,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7030,37,B,737693,1048,2503,8,(2+6),2500 MHz,Mali-G610 MP3
+101,Dimensity 1080,MediaTek Dimensity 1080,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-1080,37,B,722902,1032,2507,8,(2+6),2600 MHz,Mali-G68 MP4
+102,Exynos 9825,Samsung Exynos 9825,Samsung,https://nanoreview.net/en/soc/samsung-exynos-9825,37,B,798922,1035,2528,8,(2+2+4),2730 MHz,Mali-G76 MP12
+103,A11 Bionic,Apple A11 Bionic,Apple,https://nanoreview.net/en/soc/apple-a11-bionic,37,B,626912,1105,2629,6,(2+4),2390 MHz,Apple A11 GPU
+104,Dimensity 7100,MediaTek Dimensity 7100,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7100,36,B,768176,989,3024,8,(4+4),2400 MHz,Mali-G610 MP2
+105,Snapdragon 6 Gen 1,Qualcomm Snapdragon 6 Gen 1,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-6-gen-1,36,B,733620,935,2719,8,(4+4),2200 MHz,Adreno 710
+106,Dimensity 7050,MediaTek Dimensity 7050,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7050,36,B,802497,1061,2398,8,(2+6),2600 MHz,Mali-G68 MP4
+107,Exynos 1380,Samsung Exynos 1380,Samsung,https://nanoreview.net/en/soc/samsung-exynos-1380,36,B,765609,1008,2776,8,(4+4),2400 MHz,Mali-G68 MP5
+108,Dimensity 920,MediaTek Dimensity 920,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-920,36,B,750481,905,2285,8,(2+6),2500 MHz,Mali-G68 MP4
+109,Snapdragon 4 Gen 4,Qualcomm Snapdragon 4 Gen 4,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-4-gen-4,35,B,600942,930,2210,8,(2+6),2300 MHz,Adreno 613
+110,Dimensity 7060,MediaTek Dimensity 7060,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7060,35,B,679213,1037,2386,8,(2+6),2600 MHz,IMG BXM-8-256
+111,Dimensity 1050,MediaTek Dimensity 1050,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-1050,35,B,668004,981,2451,8,(2+6),2500 MHz,-
+112,Dimensity 930,MediaTek Dimensity 930,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-930,35,B,593307,915,2299,8,(2+6),2200 MHz,IMG BXM-8-256
+113,Dimensity 900,MediaTek Dimensity 900,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-900,35,B,671241,1003,2423,8,(2+6),2400 MHz,Mali-G68 MP4
+114,Exynos 9820,Samsung Exynos 9820,Samsung,https://nanoreview.net/en/soc/samsung-exynos-9820,35,B,744321,1001,2322,8,(2+2+4),2730 MHz,Mali-G76 MP12
+115,Kirin 980,HiSilicon Kirin 980,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-980,35,B,739763,928,2875,8,(2+2+4),2600 MHz,Mali-G76 MP10
+116,Snapdragon 4 Gen 5,Qualcomm Snapdragon 4 Gen 5,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-4-gen-5,34,C,652054,943,2410,8,(2+6),2400 MHz,-
+117,Kirin 8000A,HiSilicon Kirin 8000A,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-8000a,34,C,682743,904,2420,6,(3+3),2200 MHz,-
+118,Snapdragon 6s Gen 3,Qualcomm Snapdragon 6s Gen 3,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-6s-gen-3,34,C,623235,938,2183,8,(2+6),2300 MHz,Adreno 619
+119,Dimensity 7025,MediaTek Dimensity 7025,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7025,34,C,557820,1024,2472,8,(2+6),2500 MHz,IMG BXM-8-256
+120,Dimensity 7020,MediaTek Dimensity 7020,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-7020,34,C,639509,912,2244,8,(2+6),2200 MHz,IMG BXM-8-256
+121,Snapdragon 4 Gen 2,Qualcomm Snapdragon 4 Gen 2,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-4-gen-2,34,C,572954,923,2249,8,(2+6),2200 MHz,Adreno 613
+122,Unisoc T9100,Unisoc T9100,Unisoc,https://nanoreview.net/en/soc/unisoc-t9100,33,C,701417,872,2451,8,(1+3+4),2700 MHz,Mali-G57 MP4
+123,Unisoc T820,Unisoc T820,Unisoc,https://nanoreview.net/en/soc/unisoc-t820,33,C,757199,885,2392,8,(1+3+4),2700 MHz,Mali-G57 MP4
+124,Snapdragon 695,Qualcomm Snapdragon 695,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-695,33,C,592489,905,2003,8,(2+6),2200 MHz,Adreno 619
+125,Dimensity 820,MediaTek Dimensity 820,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-820,33,C,609659,839,2312,8,(4+4),2600 MHz,Mali-G57 MP5
+126,Kirin 820,HiSilicon Kirin 820,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-820,33,C,602614,836,2458,8,(1+3+4),2360 MHz,Mali-G57 MP6
+127,Unisoc T8300,Unisoc T8300,Unisoc,https://nanoreview.net/en/soc/unisoc-t8300,32,C,639225,880,2073,8,(2+6),2200 MHz,Mali-G57 MP2
+128,Dimensity 6400,MediaTek Dimensity 6400,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-6400,32,C,550018,803,2047,8,(2+6),2500 MHz,Mali-G57 MP2
+129,Exynos 1330,Samsung Exynos 1330,Samsung,https://nanoreview.net/en/soc/samsung-exynos-1330,32,C,592392,953,2003,8,(2+6),2400 MHz,Mali-G68 MP2
+130,Snapdragon 4 Gen 1,Qualcomm Snapdragon 4 Gen 1,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-4-gen-1,32,C,521686,852,2048,8,(2+6),2000 MHz,Adreno 619
+131,Exynos 1280,Samsung Exynos 1280,Samsung,https://nanoreview.net/en/soc/samsung-exynos-1280,32,C,605067,957,2039,8,(2+6),2400 MHz,Mali-G68 MP4
+132,Snapdragon 765G,Qualcomm Snapdragon 765G,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-765g,32,C,597153,799,1836,8,(1+1+6),2400 MHz,Adreno 620
+133,Kirin 810,HiSilicon Kirin 810,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-810,32,C,551097,797,2120,8,(2+6),2270 MHz,-
+134,Helio G200,MediaTek Helio G200,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g200,31,C,601391,727,1975,8,(2+6),2200 MHz,Mali-G57 MP2
+135,Helio G100,MediaTek Helio G100,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g100,31,C,570469,728,1959,8,(2+6),2200 MHz,Mali-G57 MP2
+136,Snapdragon 4s Gen 2,Qualcomm Snapdragon 4s Gen 2,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-4s-gen-2,31,C,506757,838,1899,8,(2+6),2000 MHz,Adreno 611
+137,Unisoc T760,Unisoc T760,Unisoc,https://nanoreview.net/en/soc/unisoc-t760,31,C,626381,744,2390,8,(4+4),2200 MHz,Mali-G57 MP4
+138,Dimensity 6300,MediaTek Dimensity 6300,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-6300,31,C,532738,771,1980,8,(2+6),2400 MHz,Mali-G57 MP2
+139,Dimensity 6100 Plus,MediaTek Dimensity 6100 Plus,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-6100-plus,31,C,513180,692,1849,8,(2+6),2200 MHz,Mali-G57 MP2
+140,Dimensity 6080,MediaTek Dimensity 6080,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-6080,31,C,581315,750,2020,8,(2+6),2400 MHz,Mali-G57 MP2
+141,Dimensity 6020,MediaTek Dimensity 6020,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-6020,31,C,527185,724,2032,8,(2+6),2200 MHz,Mali-G57 MP2
+142,Helio G99,MediaTek Helio G99,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g99,31,C,547830,728,1986,8,(2+6),2200 MHz,Mali-G57 MP2
+143,Dimensity 810,MediaTek Dimensity 810,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-810,31,C,569913,684,1900,8,(2+6),2400 MHz,Mali-G57 MP2
+144,Snapdragon 750G,Qualcomm Snapdragon 750G,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-750g,31,C,525163,818,1865,8,(2+6),2200 MHz,Adreno 619
+145,Snapdragon 732G,Qualcomm Snapdragon 732G,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-732g,31,C,517306,753,1808,8,(2+6),2300 MHz,Adreno 618
+146,Dimensity 800U,MediaTek Dimensity 800U,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-800u,31,C,551706,752,1836,8,(2+6),2400 MHz,Mali-G57 MP3
+147,Dimensity 800,MediaTek Dimensity 800,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-800,31,C,612841,665,2221,8,(4+4),2000 MHz,Mali-G57 MP4
+148,Exynos 980,Samsung Exynos 980,Samsung,https://nanoreview.net/en/soc/samsung-exynos-980,31,C,603944,861,1858,8,(2+6),2200 MHz,Mali-G76 MP5
+149,Snapdragon 480 Plus,Qualcomm Snapdragon 480 Plus,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-480-plus,30,C,477542,746,1816,8,(2+6),2200 MHz,Adreno 619
+150,Dimensity 700,MediaTek Dimensity 700,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-700,30,C,515647,681,1767,8,(2+6),2200 MHz,Mali-G57 MP2
+151,Snapdragon 690,Qualcomm Snapdragon 690,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-690,30,C,499040,780,1897,8,(2+6),2000 MHz,Adreno 619
+152,Snapdragon 720G,Qualcomm Snapdragon 720G,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-720g,30,C,514122,746,1762,8,(2+6),2300 MHz,Adreno 618
+153,Exynos 9810,Samsung Exynos 9810,Samsung,https://nanoreview.net/en/soc/samsung-exynos-9810,30,C,583267,772,2229,8,(4+4),2900 MHz,Mali-G72 MP18
+154,Snapdragon 845,Qualcomm Snapdragon 845,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-845,30,C,570119,563,2006,8,(4+4),2800 MHz,Adreno 630
+155,Snapdragon 6s 4G Gen 2,Qualcomm Snapdragon 6s 4G Gen 2,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-6s-4g-gen-2,29,C,522680,489,1532,8,(4+4),2900 MHz,Adreno 610
+156,Snapdragon 480,Qualcomm Snapdragon 480,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-480,29,C,456551,689,1597,8,(2+6),2000 MHz,Adreno 619
+157,Dimensity 720,MediaTek Dimensity 720,MediaTek,https://nanoreview.net/en/soc/mediatek-dimensity-720,29,C,452426,770,1844,8,(2+6),2000 MHz,Mali-G57 MP3
+158,Snapdragon 730G,Qualcomm Snapdragon 730G,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-730g,29,C,506661,697,1809,8,(2+6),2200 MHz,Adreno 618
+159,Snapdragon 730,Qualcomm Snapdragon 730,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-730,29,C,494401,724,1836,8,(2+6),2200 MHz,Adreno 618
+160,Snapdragon 685,Qualcomm Snapdragon 685,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-685,28,C,461236,466,1396,8,(4+4),2800 MHz,Adreno 610
+161,Snapdragon 680,Qualcomm Snapdragon 680,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-680,28,C,415362,412,1422,8,(4+4),2400 MHz,Adreno 610
+162,Helio G96,MediaTek Helio G96,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g96,28,C,493222,678,1895,8,(2+6),2050 MHz,Mali-G57 MP2
+163,Snapdragon 678,Qualcomm Snapdragon 678,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-678,28,C,447401,714,1577,8,(2+6),2200 MHz,Adreno 612
+164,Helio G95,MediaTek Helio G95,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g95,28,C,534895,672,1908,8,(2+6),2050 MHz,Mali-G76 MP4
+165,Helio G90,MediaTek Helio G90,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g90,28,C,469000,625,1744,8,(2+6),2050 MHz,Mali-G76 MP4
+166,Helio G90T,MediaTek Helio G90T,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g90t,28,C,495638,637,1749,8,(2+6),2050 MHz,Mali-G76 MP4
+167,A10 Fusion,Apple A10 Fusion,Apple,https://nanoreview.net/en/soc/apple-a10-fusion,28,C,516981,882,1484,4,(2+2),2340 MHz,PowerVR GT7600
+168,Snapdragon 675,Qualcomm Snapdragon 675,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-675,27,C,412926,671,1695,8,(2+6),2000 MHz,Adreno 612
+169,Helio P95,MediaTek Helio P95,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-p95,26,C,380202,456,1541,8,(2+6),2200 MHz,PowerVR GM9446
+170,Snapdragon 712,Qualcomm Snapdragon 712,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-712,26,C,434173,446,1436,8,(2+6),2300 MHz,Adreno 616
+171,Kirin 970,HiSilicon Kirin 970,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-970,26,C,470805,420,1617,8,(4+4),2360 MHz,Mali-G72 MP12
+172,Snapdragon 835,Qualcomm Snapdragon 835,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-835,26,C,438016,427,1500,8,(4+4),2450 MHz,Adreno 540
+173,Tiger T620,Unisoc Tiger T620,Unisoc,https://nanoreview.net/en/soc/unisoc-tiger-t620,25,C,443956,497,1541,8,(2+6),2200 MHz,Mali-G57 MP1
+174,Helio G91,MediaTek Helio G91,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g91,25,C,354158,405,1407,8,(2+6),2000 MHz,Mali-G52 MP2
+175,Snapdragon 710,Qualcomm Snapdragon 710,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-710,25,C,417439,431,1320,8,(2+6),2200 MHz,Adreno 616
+176,Helio G92 Max,MediaTek Helio G92 Max,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g92-max,24,D,370885,436,1356,8,(2+6),2000 MHz,Mali-G52 MP2
+177,Tiger T615,Unisoc Tiger T615,Unisoc,https://nanoreview.net/en/soc/unisoc-tiger-t615,24,D,351752,440,1386,8,(2+6),1800 MHz,Mali-G57 MP1
+178,Helio G81,MediaTek Helio G81,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g81,24,D,357879,432,1416,8,(2+6),2000 MHz,Mali-G52 MP2
+179,Tiger T612,Unisoc Tiger T612,Unisoc,https://nanoreview.net/en/soc/unisoc-tiger-t612,24,D,341088,421,1402,8,(2+6),1800 MHz,Mali-G57 MP1
+180,Tiger T616,Unisoc Tiger T616,Unisoc,https://nanoreview.net/en/soc/unisoc-tiger-t616,24,D,388158,452,1490,8,(2+6),2000 MHz,Mali-G57 MP1
+181,Helio G88,MediaTek Helio G88,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g88,24,D,353817,430,1375,8,(2+6),2000 MHz,Mali-G52 MP2
+182,Tiger T618,Unisoc Tiger T618,Unisoc,https://nanoreview.net/en/soc/unisoc-tiger-t618,24,D,364048,445,1419,8,(2+6),2000 MHz,Mali-G52 MP2
+183,Helio G85,MediaTek Helio G85,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g85,24,D,349222,420,1364,8,(2+6),2000 MHz,Mali-G52 MP2
+184,Snapdragon 662,Qualcomm Snapdragon 662,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-662,24,D,320666,339,1088,8,(4+4),2000 MHz,Adreno 610
+185,Helio G80,MediaTek Helio G80,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g80,24,D,310388,406,1456,8,(2+6),2000 MHz,Mali-G52 MP2
+186,Helio G70,MediaTek Helio G70,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g70,24,D,317084,417,1345,8,(2+6),2000 MHz,Mali-G52 MP2
+187,Apple A9,Apple A9,Apple,https://nanoreview.net/en/soc/apple-a9,24,D,419670,633,1014,2,(),1850 MHz,PowerVR GT7600
+188,Snapdragon 665,Qualcomm Snapdragon 665,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-665,24,D,323556,321,1128,8,(4+4),2000 MHz,Adreno 610
+189,Snapdragon 670,Qualcomm Snapdragon 670,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-670,24,D,322015,381,1239,8,(2+6),2000 MHz,Adreno 615
+190,Helio P90,MediaTek Helio P90,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-p90,24,D,388553,414,1373,8,(2+6),2200 MHz,PowerVR GM9446
+191,Exynos 8895,Samsung Exynos 8895,Samsung,https://nanoreview.net/en/soc/samsung-exynos-8895,24,D,447464,422,1387,8,(4+4),2314 MHz,Mali-G71 MP20
+192,Unisoc T606,Unisoc T606,Unisoc,https://nanoreview.net/en/soc/unisoc-t606,23,D,330006,378,1335,8,(2+6),1600 MHz,Mali-G57 MP1
+193,Tiger T610,Unisoc Tiger T610,Unisoc,https://nanoreview.net/en/soc/unisoc-tiger-t610,23,D,320967,418,1305,8,(2+6),1820 MHz,Mali-G52 MP2
+194,Tiger T700,Unisoc Tiger T700,Unisoc,https://nanoreview.net/en/soc/unisoc-tiger-t700,23,D,332816,412,1310,8,(2+6),1820 MHz,Mali-G52 MP2
+195,Exynos 850,Samsung Exynos 850,Samsung,https://nanoreview.net/en/soc/samsung-exynos-850,23,D,231906,300,1024,8,(),2000 MHz,Mali-G52 MP1
+196,Snapdragon 460,Qualcomm Snapdragon 460,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-460,23,D,251428,272,992,8,(4+4),1800 MHz,Adreno 610
+197,Kirin 710F,HiSilicon Kirin 710F,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-710f,23,D,323894,352,1244,8,(4+4),2200 MHz,Mali-G51 MP4
+198,Helio P65,MediaTek Helio P65,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-p65,23,D,290447,414,1183,8,(2+6),2000 MHz,Mali-G52 MP2
+199,Exynos 9611,Samsung Exynos 9611,Samsung,https://nanoreview.net/en/soc/samsung-exynos-9611,23,D,355351,363,1139,8,(4+4),2300 MHz,Mali-G72 MP3
+200,Kirin 710A,HiSilicon Kirin 710A,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-710a,22,D,343622,318,1201,8,(4+4),2000 MHz,Mali-G51 MP4
+201,Helio G35,MediaTek Helio G35,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g35,22,D,200794,300,821,8,(4+4),2300 MHz,PowerVR GE8320
+202,Helio P70,MediaTek Helio P70,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-p70,22,D,303398,341,779,8,(4+4),2100 MHz,Mali-G72 MP3
+203,Kirin 710,HiSilicon Kirin 710,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-710,22,D,336905,362,1222,8,(4+4),2200 MHz,Mali-G51 MP4
+204,Exynos 9610,Samsung Exynos 9610,Samsung,https://nanoreview.net/en/soc/samsung-exynos-9610,22,D,352871,370,1021,8,(4+4),2300 MHz,Mali-G72 MP3
+205,Helio G50,MediaTek Helio G50,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g50,21,D,184328,200,889,8,(4+4),2200 MHz,PowerVR GE8320
+206,Helio G36,MediaTek Helio G36,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g36,21,D,195539,189,781,8,(4+4),2200 MHz,PowerVR GE8320
+207,Helio G37,MediaTek Helio G37,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g37,21,D,194025,198,868,8,(4+4),2300 MHz,PowerVR GE8320
+208,Helio P60,Mediatek Helio P60,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-p60,21,D,232802,341,779,8,(4+4),2000 MHz,Mali-G72 MP3
+209,Snapdragon 821,Qualcomm Snapdragon 821,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-821,21,D,312361,390,792,4,(2+2),2342 MHz,Adreno 530
+210,Snapdragon 660,Qualcomm Snapdragon 660,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-660,21,D,347995,360,1115,8,(4+4),2200 MHz,Adreno 512
+211,Helio P35,MediaTek Helio P35,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-p35,21,D,199111,300,824,8,(4+4),2300 MHz,PowerVR GE8320
+212,Kirin 960,HiSilicon Kirin 960,HiSilicon,https://nanoreview.net/en/soc/hisilicon-kirin-960,21,D,366515,403,1147,8,(4+4),2360 MHz,Mali-G71 MP8
+213,Exynos 8890,Samsung Exynos 8890,Samsung,https://nanoreview.net/en/soc/samsung-exynos-8890,21,D,418077,413,1102,8,(4+4),2300 MHz,Mali-T880 MP12
+214,Helio G25,MediaTek Helio G25,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-g25,20,D,163723,185,521,8,(4+4),2000 MHz,PowerVR GE8320
+215,Snapdragon 439,Qualcomm Snapdragon 439,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-439,20,D,193115,199,795,8,(4+4),2000 MHz,Adreno 505
+216,Helio P22,MediaTek Helio P22,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-p22,20,D,156818,233,723,8,(4+4),2000 MHz,PowerVR GE8320
+217,Snapdragon 820,Qualcomm Snapdragon 820,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-820,20,D,333877,356,615,4,(2+2),2150 MHz,Adreno 530
+218,Exynos 7904,Samsung Exynos 7904,Samsung,https://nanoreview.net/en/soc/samsung-exynos-7904,20,D,241600,330,975,8,(2+6),1800 MHz,Mali-G71 MP2
+219,Snapdragon 636,Qualcomm Snapdragon 636,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-636,20,D,282713,294,1083,8,(4+4),1800 MHz,Adreno 509
+220,Snapdragon 632,Qualcomm Snapdragon 632,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-632,20,D,243691,295,1037,8,(4+4),1800 MHz,Adreno 506
+221,Exynos 7884B,Samsung Exynos 7884B,Samsung,https://nanoreview.net/en/soc/samsung-exynos-7884b,19,D,205752,254,802,8,(2+6),1560 MHz,Mali-G71 MP2
+222,Exynos 7885,Samsung Exynos 7885,Samsung,https://nanoreview.net/en/soc/samsung-exynos-7885,19,D,268800,334,862,8,(2+6),2200 MHz,Mali-G71 MP2
+223,Snapdragon 630,Qualcomm Snapdragon 630,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-630,19,D,215323,181,960,8,(4+4),2200 MHz,Adreno 508
+224,Snapdragon 450,Qualcomm Snapdragon 450,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-450,19,D,176718,301,831,8,(),1800 MHz,Adreno 506
+225,Helio A22,MediaTek Helio A22,MediaTek,https://nanoreview.net/en/soc/mediatek-helio-a22,19,D,155362,300,486,4,(),2000 MHz,PowerVR GE8300
+226,Snapdragon 625,Qualcomm Snapdragon 625,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-625,18,D,218879,189,862,8,(),2000 MHz,Adreno 506
+227,Exynos 7870,Samsung Exynos 7870,Samsung,https://nanoreview.net/en/soc/samsung-exynos-7870,16,D,192269,172,492,8,(),1600 MHz,Mali-T830 MP1
+228,Unisoc SC9863A,Unisoc SC9863A,Unisoc,https://nanoreview.net/en/soc/unisoc-sc9863a,15,D,153667,164,725,8,(4+4),1600 MHz,PowerVR GE8322
+229,Snapdragon 430,Qualcomm Snapdragon 430,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-430,13,D,180440,205,827,8,(),1400 MHz,Adreno 505
+230,Snapdragon 801,Qualcomm Snapdragon 801,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-801,12,D,159133,205,698,4,(),2500 MHz,Adreno 330
+231,Snapdragon 435,Qualcomm Snapdragon 435,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-435,12,D,150628,141,618,8,(),1400 MHz,Adreno 505
+232,Snapdragon 425,Qualcomm Snapdragon 425,Qualcomm,https://nanoreview.net/en/soc/qualcomm-snapdragon-425,11,D,180934,130,488,4,(),1400 MHz,Adreno 308
+233,MediaTek MT6737,MediaTek MT6737,MediaTek,https://nanoreview.net/en/soc/mediatek-mt6737,10,D,73398,141,594,4,(),1300 MHz,Mali-T720 MP2
