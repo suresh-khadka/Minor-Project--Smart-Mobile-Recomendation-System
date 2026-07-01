@@ -2,8 +2,8 @@ import requests, csv, os, time, random, logging, re, json
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-BATCH_NAME    = 'BATCH2'
-TARGET_BRANDS = ['Nokia', 'Motorola', 'Sony', 'Huawei']
+BATCH_NAME    = 'BATCH10'
+TARGET_BRANDS = ['Plum', 'Yezz', 'Oukitel', 'Wiko']
 DELAY_MIN     = 25
 DELAY_MAX     = 60
 LONG_PAUSE_EVERY = 30
